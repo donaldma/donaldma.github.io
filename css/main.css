@@ -113,6 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 #page-education {
     padding: 75px 0;
     background: #fff;
+    text-align: center;
 }
 #page-experience {
     padding: 75px 0;
@@ -530,4 +531,8 @@ label.valid {
     #page-profile .profile {
         margin: 0 auto 20px auto;
     }
+}
+
+.summary {
+    font-size: 24px
 }
